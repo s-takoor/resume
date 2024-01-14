@@ -1,0 +1,80 @@
+:PROPERTIES:
+#+OPTIONS: toc:nil
+#+SETUPFILE: ~/.emacs.d/org/latex/s.takoor-resume.org
+#+LATEX: \begin{center}
+#+LATEX: \color{DarkGray}{\textbf{\huge TAKOOR}} {\textbf{\large Shashiduth}}} \\[1mm] {\textbf{\large{I}}NFORMATION \textbf{\large{S}}ECURITY \textbf{\large{A}}NALYST \\[1mm] {\small \faPhone\ (+230) 5928-0406 \quad | \quad \faEnvelope\ \href{mailto:shashiduth.takoor@gmail.com}{shashiduth.takoor@gmail.com} \quad | \quad \faGithub\ \href{https://github.com/s-takoor}{github.com/s-takoor} \quad | \quad \faLinkedin\ \href{https://linkedin.com/in/shashiduth-takoor-540286226}{linkedin.com/in/shashiduth-takoor}}
+#+LATEX: \end{center} \\[2mm]
+:END:
+* SUMMARY
+Information Security (InfoSec) Analyst with 6+ years of hands-on experience in cybersecurity, specialising in both defensive and offensive security. Proven track record as a cybersecurity consultant, delivering expertise across diverse locations such as Mauritius, Madagascar, Djibouti, and the Kingdom of Saudi Arabia.
+
+:PROPERTIES:
+#+LATEX: \vspace{2em}
+:END:
+* WORK EXPERIENCE
+:PROPERTIES:
+#+LATEX: {\color{DarkGray}{\bfseries{\large Checkout Ltd.}} \hfill \textit{Ebene, Mauritius}} \\
+#+LATEX: {\color{LightGray}{\bfseries{INFORMATION SECURITY ANALYST}} \hfill {\textit{Mar. 2022 - Present}}}
+:END:
+- Leveraging Wiz's Cloud Security Posture Management (CSPM) solution to uncover vulnerabilities, misconfigurations and unnecessary permissions across cloud resources and automate incident response.
+- Integrated Wiz into development workflows to detect vulnerabilities, secrets, and misconfigurations in IaC templates, containers and VM images.
+- Vulnerability management and PCI ASV leveraging on Qualys, configuring option profiles and performing vulnerability scans.
+- Maintain compliance against industry standard regulations and benchmarks such as Payement Card Industry Data Security Standard (PCI DSS).
+- Monitoring and analysing security events leveraging on LogRhythm SIEM and Microsoft Azure Sentinel SIEM and SOAR.
+- Assisted in deploying endpoint protection solution such as Cylance and SentinelOne organisation-wide.
+- Manage cloud applications traffic via Netskope CASB solution and integration with Garrison Ultra Remote Browser Isolation (RBI).
+- Conduct security assessments, identify vulnerabilities, and recommend remediation strategies. Activities include but not limited to API testing, mobile SDK testing, and segmentation testing.
+- Assisted with the review of findings from HackerOne who is responsible for performing bug bounty and vulnerability detection program for in-scope items.
+- Collaborated with cross-functional teams to ensure compliance with industry standards and regulations.
+
+:PROPERTIES:
+#+LATEX: \vspace{2em}
+#+LATEX: {\color{DarkGray}{\bfseries{\large Mauritius Network Services (MNS) Ltd.}} \hfill \textit{Ebene, Mauritius}} \\
+#+LATEX: {\color{LightGray}{\bfseries{INFORMATION SECURITY OFFICER}} \hfill {\textit{Sep. 2020 - Feb. 2022}}}
+:END:
+- Implemented Wazuh, an open source security platform, to enhance security monitoring capabilities. Proficiently monitored and analysed security events, ensuring proactive threat detection and response.
+- Incident handling and incident response, swiftly mitigating security incidents to minimise potential risks.
+- Reviewed and enhanced existing information security policies and procedures to align with industry best practices such as ISO 27001.
+- Conducted security assessments, identifying vulnerabilities and offering strategic remediation strategies for stakeholders’ optimal security posture.
+
+:PROPERTIES:
+#+LATEX: \vspace{2em}
+#+LATEX: {\color{DarkGray}{\bfseries{\large Ernst & Young (EY)}} \hfill \textit{Ebene, Mauritius}} \\
+#+LATEX: {\color{LightGray}{\bfseries{INFORMATION SECURITY OFFICER}} \hfill {\textit{Oct. 2019 - Sep. 2020}}}
+:END:
+- Conducted comprehensive security assessments, identifying vulnerabilities and delivering actionable remediation strategies. Activities encompassed vulnerability assessments, penetration testing, as well as web and mobile application security testing.
+- Contributed expertise as consultant conducting cyber maturity assessment in the Middle East. Activities included facilitating workshops with stakeholders, evaluating existing controls, policies, and procedures, and providing recommendations to enhance compliance with the ISO 27001 standard.
+
+:PROPERTIES:
+#+LATEX: \vspace{2em}
+#+LATEX: {\color{DarkGray}{\bfseries{\large Birger.}} \hfill \textit{Phoenix, Mauritius}} \\
+#+LATEX: {\color{LightGray}{\bfseries{SECURITY OPERATION ANALYST}} \hfill {\textit{Apr. 2017 - Sep. 2019}}}
+:END:
+- Real-Time security monitoring and analysis of security events through Symantec Managed Security Services (MSS) and IBM QRadar SIEM to swiftly detect potential threats.
+- Promptly addressing security incidents, from initial detection to resolution, ensuring minimal impact and efficient mitigation.
+- Produced comprehensive security reports tailored for diverse stakeholders, providing valuable insights and actionable recommendations.
+- Conducted security assessments for stakeholders in the East African region, employing industry-standard methodologies such as Open Web Application Security Project (OWASP). These assessments encompassed vulnerability assessments and penetration testing aimed at identifying and remediating vulnerabilities, misconfigurations and potential security risks.
+- Ensured compliance with international standards such as ISO 27001 and NIST, aligning security practices with industry best practices and regulatory requirements.
+
+:PROPERTIES:
+#+LATEX: \vspace{2em}
+:END:
+* EDUCATION
+:PROPERTIES:
+#+LATEX: {\color{DarkGray}{\bfseries{\large Open University of Mauritius (OUM)}} \hfill \textit{Reduit, Mauritius}} \\
+#+LATEX: {\color{LightGray}{\bfseries{B.S. IN COMPUTER SCIENCE}} \hfill {\textit{Jul. 2020 - Jul. 2023}}}
+:END:
+- Coursework: Algorithms, Data Structures & Complexities, Object-oriented Programming, Computer Architecture, Python, Cybersecurity and Digital Forensics, Blockchain
+- Thesis and Final Year Project: [[https://github.com/s-takoor/mi-voting][Blockchain-Based Voting DApp]]
+
+:PROPERTIES:
+#+LATEX: \vspace{2em}
+:END:
+* SKILLS
+- Vulnerability Assessment and Penetration Testing (VA/PT)
+- Incident Handling and Incident Response (IH/IR)
+- Security Auditing and Compliance
+- Security Information and Event Management (SIEM)
+- Threat and Vulnerability Management
+- Cloud Security (AWS)
+- Security Documentation, Metrics, and Reporting

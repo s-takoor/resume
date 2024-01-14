@@ -1,0 +1,23 @@
+#+TITLE: RESUME
+
+** 🚀 TL;DR
+This repository contains the source files for my resume, the template used to generate the ~resume.pdf~. The ~resume.pdf~ has been crafter using ~Emacs~ and a ~LaTeX compiler~.
+
+** ⚙️ ORG LATEX CONFIGURATION
+Below are the configurations set up for ~ORG LATEX~ in my ~config.org~
+#+begin_src emacs-lisp
+(require 'ox-latex)
+
+(setq org-latex-pdf-process (list "latexmk -pdflatex='xelatex -shell-escape -interaction nonstopmode' -pdf -output-directory=%o %f"))
+
+(with-eval-after-load 'ox-latex
+  (add-to-list 'org-latex-classes
+               '("article"
+                 "\\documentclass[letterpaper]{article}"
+                 ("\\section{%s}" . "\\section*{%s}")
+                 ("\\subsection{%s}" . "\\subsection*{%s}")
+                 ("\\subsubsection{%s}" . "\\subsubsection*{%s}")
+                 ("\\paragraph{%s}" . "\\paragraph*{%s}")
+                 ("\\subparagraph{%s}" . "\\subparagraph*{%s}")
+                 )))
+#+end_src
