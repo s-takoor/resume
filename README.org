@@ -1,7 +1,7 @@
 #+TITLE: RESUME
 
 ** 🚀 TL;DR
-This repository contains the source files for my resume, the template used to generate the ~resume.pdf~. The ~resume.pdf~ has been crafter using ~Emacs~ and a ~LaTeX compiler~.
+This repository contains the source files for my resume, the template used to generate the ~resume.pdf~. The ~resume.pdf~ has been crafted using ~Emacs~ and a ~LaTeX compiler~.
 
 ** ⚙️ ORG LATEX CONFIGURATION
 Below are the configurations set up for ~ORG LATEX~ in my ~config.org~
