@@ -16,7 +16,7 @@ Information Security (InfoSec) Analyst with 6+ years of hands-on experience in c
 #+LATEX: {\color{DarkGray}{\bfseries{\large Checkout Ltd.}} \hfill \textit{Ebene, Mauritius}} \\
 #+LATEX: {\color{LightGray}{\bfseries{ANALYST I, INFOSEC ANALYST}} \hfill {\textit{Mar. 2023 - Present}}}
 :END:
-- Spearheaded the integration of Wiz into development workflows, enhancing detection of vulnerabilities, secrets, and misconfigurations in Infrastructure as Code (IaC) templates, containers and VM images.
+- Spearheaded the integration of Wiz, Cloud Security Posture Management (CSPM) solution into development workflows, enhancing detection of vulnerabilities, secrets, and misconfigurations in Infrastructure as Code (IaC) templates, containers and VM images.
 - Optimised incident response through the integration of Wiz with Slack and Jira, orchestrating real-time alerting and automated issue resolution. Jira issues are dynamically generated based on severity, swiftly dispatched to stakeholders on a Jira Board, adhering to defined SLAs for remediation, minimising response time and human intervention.
 - Collaborated with the workplace technology team to set up OKTA Single Sign-on (SSO) and Wiz Role-based Access Control (RBAC), simplifying access management through automated provisioning and deprovisioning.
 - Revamped monthly patching by transitionin to a more efficient process. Previously, vulnerabilities were manually extracted from Qualys VMDR, shared them via Email and Slack. Now, with access to Wiz, teams can quickly identify resources requiring OS patching.
@@ -29,7 +29,7 @@ Information Security (InfoSec) Analyst with 6+ years of hands-on experience in c
 #+LATEX: {\color{DarkGray}{\bfseries{\large Checkout Ltd.}} \hfill \textit{Ebene, Mauritius}} \\
 #+LATEX: {\color{LightGray}{\bfseries{ASSOCIATE, INFOSEC ANALYST}} \hfill {\textit{Mar. 2022 - Mar. 2023}}}
 :END:
-- Leveraging Wiz's Cloud Security Posture Management (CSPM) solution to uncover vulnerabilities, misconfigurations, threats and unnecessary permissions across cloud resources.
+- Leveraging Wiz to uncover vulnerabilities, misconfigurations, threats and unnecessary permissions across cloud resources.
 - Conducted PCI ASV assessments using Qualys, ensuring compliance with PCI DSS standards.
 - Assisted in deploying endpoint protection solution such as Cylance and SentinelOne organisation-wide.
 - Manage cloud applications traffic via Netskope Cloud Access Security Broker (CASB) and integration with Garrison Ultra Remote Browser Isolation (RBI).
