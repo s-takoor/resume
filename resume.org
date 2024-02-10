@@ -14,18 +14,27 @@ Information Security (InfoSec) Analyst with 6+ years of hands-on experience in c
 * WORK EXPERIENCE
 :PROPERTIES:
 #+LATEX: {\color{DarkGray}{\bfseries{\large Checkout Ltd.}} \hfill \textit{Ebene, Mauritius}} \\
-#+LATEX: {\color{LightGray}{\bfseries{INFORMATION SECURITY ANALYST}} \hfill {\textit{Mar. 2022 - Present}}}
+#+LATEX: {\color{LightGray}{\bfseries{ANALYST I, INFOSEC ANALYST}} \hfill {\textit{Mar. 2023 - Present}}}
 :END:
-- Leveraging Wiz's Cloud Security Posture Management (CSPM) solution to uncover vulnerabilities, misconfigurations and unnecessary permissions across cloud resources and automate incident response.
-- Integrated Wiz into development workflows to detect vulnerabilities, secrets, and misconfigurations in IaC templates, containers and VM images.
-- Vulnerability management and PCI ASV leveraging on Qualys, configuring option profiles and performing vulnerability scans.
-- Maintain compliance against industry standard regulations and benchmarks such as Payement Card Industry Data Security Standard (PCI DSS).
-- Monitoring and analysing security events leveraging on LogRhythm SIEM and Microsoft Azure Sentinel SIEM and SOAR.
+- Spearheaded the integration of Wiz into development workflows, enhancing detection of vulnerabilities, secrets, and misconfigurations in Infrastructure as Code (IaC) templates, containers and VM images.
+- Optimised incident response through the integration of Wiz with Slack and Jira, orchestrating real-time alerting and automated issue resolution. Jira issues are dynamically generated based on severity, swiftly dispatched to stakeholders on a Jira Board, adhering to defined SLAs for remediation, minimising response time and human intervention.
+- Collaborated with the workplace technology team to set up OKTA Single Sign-on (SSO) and Wiz Role-based Access Control (RBAC), simplifying access management through automated provisioning and deprovisioning.
+- Revamped monthly patching by transitionin to a more efficient process. Previously, vulnerabilities were manually extracted from Qualys VMDR, shared them via Email and Slack. Now, with access to Wiz, teams can quickly identify resources requiring OS patching.
+- Conducted comprehensive security assessments, including API testing, mobile SDK testing, and segmentation testing, to identify vulnerabilities and recommend remediation strategies.
+- Assisted with the review of findings from HackerOne bug bounty and vulnerability disclosure program.
+- Configured option profiles for authenticated vulnerability scans targeting network devices such as firewalls, switches, and routers for our data centres, enhancing our overall security posture and regulatory adherence.
+- Collaborated with cross-functional teams to ensure compliance with industry standards and regulations such as Payment Card Industry Data Security Standard (PCI DSS) and System and Organisation Controls (SOC2).
+
+:PROPERTIES:
+#+LATEX: {\color{DarkGray}{\bfseries{\large Checkout Ltd.}} \hfill \textit{Ebene, Mauritius}} \\
+#+LATEX: {\color{LightGray}{\bfseries{ASSOCIATE, INFOSEC ANALYST}} \hfill {\textit{Mar. 2022 - Mar. 2023}}}
+:END:
+- Leveraging Wiz's Cloud Security Posture Management (CSPM) solution to uncover vulnerabilities, misconfigurations, threats and unnecessary permissions across cloud resources.
+- Conducted PCI ASV assessments using Qualys, ensuring compliance with PCI DSS standards.
 - Assisted in deploying endpoint protection solution such as Cylance and SentinelOne organisation-wide.
-- Manage cloud applications traffic via Netskope CASB solution and integration with Garrison Ultra Remote Browser Isolation (RBI).
-- Conduct security assessments, identify vulnerabilities, and recommend remediation strategies. Activities include but not limited to API testing, mobile SDK testing, and segmentation testing.
-- Assisted with the review of findings from HackerOne who is responsible for performing bug bounty and vulnerability detection program for in-scope items.
-- Collaborated with cross-functional teams to ensure compliance with industry standards and regulations.
+- Manage cloud applications traffic via Netskope Cloud Access Security Broker (CASB) and integration with Garrison Ultra Remote Browser Isolation (RBI).
+- Monitoring and analysing security events leveraging on LogRhythm SIEM and Microsoft Azure Sentinel SIEM and SOAR.
+- Automated monthly security reporting by utilising the Wiz API and Python to extract data points, formatting with LaTeX, and generate PDF reports shared organisation-wide via Confluence.
 
 :PROPERTIES:
 #+LATEX: \vspace{2em}
@@ -35,11 +44,11 @@ Information Security (InfoSec) Analyst with 6+ years of hands-on experience in c
 - Implemented Wazuh, an open source security platform, to enhance security monitoring capabilities. Proficiently monitored and analysed security events, ensuring proactive threat detection and response.
 - Incident handling and incident response, swiftly mitigating security incidents to minimise potential risks.
 - Reviewed and enhanced existing information security policies and procedures to align with industry best practices such as ISO 27001.
-- Conducted security assessments, identifying vulnerabilities and offering strategic remediation strategies for stakeholders’ optimal security posture.
+- Conducted security assessments, identifying vulnerabilities and offering strategic remediation strategies for stakeholders’ optimal security posture. Activities include vulnerability scan and offline configuration audits leveraging on Tenable Nessus, web and mobile pentesting.
 
 :PROPERTIES:
 #+LATEX: \vspace{2em}
-#+LATEX: {\color{DarkGray}{\bfseries{\large Ernst & Young (EY)}} \hfill \textit{Ebene, Mauritius}} \\
+#+LATEX: {\color{DarkGray}{\bfseries{\large Ernst \& Young (EY)}} \hfill \textit{Ebene, Mauritius}} \\
 #+LATEX: {\color{LightGray}{\bfseries{INFORMATION SECURITY OFFICER}} \hfill {\textit{Oct. 2019 - Sep. 2020}}}
 :END:
 - Conducted comprehensive security assessments, identifying vulnerabilities and delivering actionable remediation strategies. Activities encompassed vulnerability assessments, penetration testing, as well as web and mobile application security testing.
@@ -64,7 +73,7 @@ Information Security (InfoSec) Analyst with 6+ years of hands-on experience in c
 #+LATEX: {\color{DarkGray}{\bfseries{\large Open University of Mauritius (OUM)}} \hfill \textit{Reduit, Mauritius}} \\
 #+LATEX: {\color{LightGray}{\bfseries{B.S. IN COMPUTER SCIENCE}} \hfill {\textit{Jul. 2020 - Jul. 2023}}}
 :END:
-- Coursework: Algorithms, Data Structures & Complexities, Object-oriented Programming, Computer Architecture, Python, Cybersecurity and Digital Forensics, Blockchain
+- Coursework: Algorithms, Blockchain, Computer Architecture, Cybersecurity and Digital Forensics, Data Structures & Complexities, Object-oriented Programming, Python
 - Thesis and Final Year Project: [[https://github.com/s-takoor/mi-voting][Blockchain-Based Voting DApp]]
 
 :PROPERTIES:
