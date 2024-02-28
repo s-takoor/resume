@@ -49,7 +49,7 @@ Information Security (InfoSec) Analyst with 6+ years of hands-on experience in c
 :PROPERTIES:
 #+LATEX: \vspace{2em}
 #+LATEX: {\color{DarkGray}{\bfseries{\large Ernst \& Young (EY)}} \hfill \textit{Ebene, Mauritius}} \\
-#+LATEX: {\color{LightGray}{\bfseries{INFORMATION SECURITY OFFICER}} \hfill {\textit{Oct. 2019 - Sep. 2020}}}
+#+LATEX: {\color{LightGray}{\bfseries{CYBER SECURITY CONSULTANT, ASSISTANT 2}} \hfill {\textit{Oct. 2019 - Sep. 2020}}}
 :END:
 - Conducted comprehensive security assessments, identifying vulnerabilities and delivering actionable remediation strategies. Activities encompassed vulnerability assessments, penetration testing, as well as web and mobile application security testing.
 - Contributed expertise as consultant conducting cyber maturity assessment in the Middle East. Activities included facilitating workshops with stakeholders, evaluating existing controls, policies, and procedures, and providing recommendations to enhance compliance with the ISO 27001 standard.
